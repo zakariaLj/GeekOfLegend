@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAP,yHAAO",
+    "sources": [
+        "../../src/scss/main.scss",
+        "../../src/scss/_header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
